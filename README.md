@@ -163,4 +163,4 @@ Setelah login berhasil, seringkali ada pengalihan ke halaman beranda atau halama
 
 ## Hasil
 
-https://github.com/muhammadriyadussolihin/lab12web/assets/116700346/fd7a129e-bf07-4041-8289-52459a291af5
+<img src="video/hasil.gif">
